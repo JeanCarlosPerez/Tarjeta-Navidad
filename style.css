@@ -105,29 +105,24 @@ body{
     }
 
     .modal-content{
-        margin-top: 5rem;
+        height: 70%;
     }
 
     body{
         background-image: url(./img/navidad.png);
         background-size:cover;
-        height: 100vh;
-        width: 100vw;
     }
 
     .titulo{
         color: #00873e;
         }
 
-    .modal-content{
-        height: 60%;
-    } 
 
     .titulo-modal, .navidad{
         text-align: center;
     }
 
-    modal{
-        padding-top: -100px;
+    .modal{
+        padding-top: 0;
     }
 }
