@@ -120,4 +120,9 @@ body{
     .modal{
         padding-top:4rem;
     }
+
+    .modal-content{
+        width: 75%;
+        height: 75%;
+    }
 }
