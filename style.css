@@ -49,11 +49,10 @@ body{
     margin: auto;
     padding: 20px;
     border: 1px solid #888;
-    width: 50%;
+    width: 60%;
     color: white;
-    height: 50%;
+    height: 60%;
     font-family: 'St. Nicholas', sans-serif;
-    margin-top: 3rem;
     border-radius: 2rem;
 }
 
@@ -102,10 +101,6 @@ body{
     }
     .container-boton{
         padding-right: 10rem;
-    }
-
-    .modal-content{
-        height: 80%;
     }
 
     body{
