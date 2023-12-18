@@ -105,7 +105,7 @@ body{
     }
 
     .modal-content{
-        margin-top: 3rem;
+        margin-top: 5rem;
     }
 
     body{
@@ -120,10 +120,14 @@ body{
         }
 
     .modal-content{
-        height: 80%;
+        height: 60%;
     } 
 
     .titulo-modal, .navidad{
         text-align: center;
+    }
+
+    modal{
+        padding-top: -100px;
     }
 }
